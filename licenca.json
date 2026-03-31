@@ -1,4 +1,9 @@
 {
   "a": true,
-  "clientes": []
+  "clientes": [
+    {
+      "id": "273659132664283",
+      "tipo": "chefe"
+    }
+  ]
 }
